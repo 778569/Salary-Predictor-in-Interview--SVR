@@ -43,3 +43,7 @@ def predict():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
+
+<be><br>
+![image](https://github.com/user-attachments/assets/4779c77f-4e76-44f5-a475-d7f72ff7b823)
+
